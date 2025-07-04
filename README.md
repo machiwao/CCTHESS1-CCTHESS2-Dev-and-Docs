@@ -1,2 +1,1 @@
-# Thesis_ProjectFiles
-This repository includes all implementation and documentation files for Thesis
+# Hybrid AI for Heat Resilience: Urban Thermal Forecasting and Cooling Infrastructure Planning
