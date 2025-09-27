@@ -1,4 +1,0 @@
-- Ambulong
-- Basco
-- Baler
-- Cabanatuan
