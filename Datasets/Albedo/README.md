@@ -4,5 +4,10 @@ HLSL30 Link: https://developers.google.com/earth-engine/datasets/catalog/NASA_HL
 
 HLSS30 Link: https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002
 
+HLS Documentation (from NASA): https://www.earthdata.nasa.gov/data/projects/hls/spectral-bands
+
+
 Source for Albedo formula using Landsat-8:
 https://www.sciencedirect.com/science/article/abs/pii/S0034425700002054
+
+
