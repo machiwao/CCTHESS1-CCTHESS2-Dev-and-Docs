@@ -8,6 +8,9 @@ HLS Documentation (from NASA): https://www.earthdata.nasa.gov/data/projects/hls/
 
 
 Source for Albedo formula using Landsat-8:
+
 https://www.sciencedirect.com/science/article/abs/pii/S0034425700002054
+
+https://terpconnect.umd.edu/~sliang/papers/RSE.N2B.2.pdf?utm_source=chatgpt.com
 
 
